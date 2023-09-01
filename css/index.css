@@ -285,7 +285,7 @@ textarea {
 .mainBody .chart .chartPhoto {
     width: 1374px;
     height: 510px;
-    background-image: url("../images/repeat.png");
+    background-image: url("https://p.sda1.dev/13/51600a237f30eb8421b292f68a68d0a3/repeat.png");
     background-position: 0 0;
 
     transition: background-position 0.5s ease 0s;
